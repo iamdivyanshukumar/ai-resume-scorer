@@ -216,16 +216,6 @@ The `config.py` file is currently empty but can be expanded to include:
 - The application processes one resume at a time in the frontend
 - Large PDFs may take several minutes to process and index
 
-### Potential Enhancements
-
-- Add user authentication and authorization
-- Implement cleanup routines for old vector stores
-- Support for batch resume processing
-- Integration with job posting databases
-- Custom prompts and analysis templates
-- Support for multiple document formats (DOCX, TXT)
-- Comparison features between multiple resumes
-
 ## Troubleshooting
 
 ### API Connection Error
